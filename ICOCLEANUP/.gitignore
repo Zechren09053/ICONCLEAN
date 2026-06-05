@@ -1,0 +1,23 @@
+## .gitignore for ICOCLEAR / DesktopIconToggle
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
